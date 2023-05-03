@@ -1,0 +1,4 @@
+/home/esra/Android/Sdk/cmake/3.18.1/bin/ninja \
+  -C \
+  /home/esra/Desktop/android/Opencv_Project/opencv/.cxx/Debug/3b124za1/x86 \
+  opencv_jni_shared

@@ -1,0 +1,170 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 24 min SDK version: x86",
+    "file_": "/home/esra/Desktop/android/Opencv_Project/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1403294279
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON /home/esra/Desktop/android/Opencv_Project/opencv/.cxx/RelWithDebInfo/3m5w2293/x86/android_gradle_build.json due to:",
+    "file_": "/home/esra/Desktop/android/Opencv_Project/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1110363847
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json /home/esra/Desktop/android/Opencv_Project/opencv/.cxx/RelWithDebInfo/3m5w2293/x86/android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "/home/esra/Desktop/android/Opencv_Project/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1334280385
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file /home/esra/Desktop/android/Opencv_Project/opencv/.cxx/RelWithDebInfo/3m5w2293/x86/metadata_generation_command.txt, will remove stale json folder",
+    "file_": "/home/esra/Desktop/android/Opencv_Project/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 207669469
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "/home/esra/Desktop/android/Opencv_Project/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -614378540
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027/home/esra/Desktop/android/Opencv_Project/opencv/.cxx/RelWithDebInfo/3m5w2293/x86\u0027",
+    "file_": "/home/esra/Desktop/android/Opencv_Project/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -84431516
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake /home/esra/Android/Sdk/cmake/3.18.1/bin/cmake \\\n  -H/home/esra/Desktop/android/Opencv_Project/opencv/libcxx_helper \\\n  -DCMAKE_SYSTEM_NAME\u003dAndroid \\\n  -DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON \\\n  -DCMAKE_SYSTEM_VERSION\u003d24 \\\n  -DANDROID_PLATFORM\u003dandroid-24 \\\n  -DANDROID_ABI\u003dx86 \\\n  -DCMAKE_ANDROID_ARCH_ABI\u003dx86 \\\n  -DANDROID_NDK\u003d/home/esra/Android/Sdk/ndk/23.1.7779620 \\\n  -DCMAKE_ANDROID_NDK\u003d/home/esra/Android/Sdk/ndk/23.1.7779620 \\\n  -DCMAKE_TOOLCHAIN_FILE\u003d/home/esra/Android/Sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake \\\n  -DCMAKE_MAKE_PROGRAM\u003d/home/esra/Android/Sdk/cmake/3.18.1/bin/ninja \\\n  -DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/home/esra/Desktop/android/Opencv_Project/opencv/build/intermediates/cxx/RelWithDebInfo/3m5w2293/obj/x86 \\\n  -DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/home/esra/Desktop/android/Opencv_Project/opencv/build/intermediates/cxx/RelWithDebInfo/3m5w2293/obj/x86 \\\n  -DCMAKE_BUILD_TYPE\u003dRelWithDebInfo \\\n  -B/home/esra/Desktop/android/Opencv_Project/opencv/.cxx/RelWithDebInfo/3m5w2293/x86 \\\n  -GNinja \\\n  -DANDROID_STL\u003dc++_shared\n",
+    "file_": "/home/esra/Desktop/android/Opencv_Project/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1090411623
+  },
+  {
+    "level_": 0,
+    "message_": "/home/esra/Android/Sdk/cmake/3.18.1/bin/cmake \\\n  -H/home/esra/Desktop/android/Opencv_Project/opencv/libcxx_helper \\\n  -DCMAKE_SYSTEM_NAME\u003dAndroid \\\n  -DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON \\\n  -DCMAKE_SYSTEM_VERSION\u003d24 \\\n  -DANDROID_PLATFORM\u003dandroid-24 \\\n  -DANDROID_ABI\u003dx86 \\\n  -DCMAKE_ANDROID_ARCH_ABI\u003dx86 \\\n  -DANDROID_NDK\u003d/home/esra/Android/Sdk/ndk/23.1.7779620 \\\n  -DCMAKE_ANDROID_NDK\u003d/home/esra/Android/Sdk/ndk/23.1.7779620 \\\n  -DCMAKE_TOOLCHAIN_FILE\u003d/home/esra/Android/Sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake \\\n  -DCMAKE_MAKE_PROGRAM\u003d/home/esra/Android/Sdk/cmake/3.18.1/bin/ninja \\\n  -DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/home/esra/Desktop/android/Opencv_Project/opencv/build/intermediates/cxx/RelWithDebInfo/3m5w2293/obj/x86 \\\n  -DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/home/esra/Desktop/android/Opencv_Project/opencv/build/intermediates/cxx/RelWithDebInfo/3m5w2293/obj/x86 \\\n  -DCMAKE_BUILD_TYPE\u003dRelWithDebInfo \\\n  -B/home/esra/Desktop/android/Opencv_Project/opencv/.cxx/RelWithDebInfo/3m5w2293/x86 \\\n  -GNinja \\\n  -DANDROID_STL\u003dc++_shared\n",
+    "file_": "/home/esra/Desktop/android/Opencv_Project/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1239122200
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of /home/esra/Desktop/android/Opencv_Project/opencv/.cxx/RelWithDebInfo/3m5w2293/x86/compile_commands.json.bin normally",
+    "file_": "/home/esra/Desktop/android/Opencv_Project/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 35359209
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "/home/esra/Desktop/android/Opencv_Project/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -926724791
+  },
+  {
+    "level_": 0,
+    "message_": "write command file /home/esra/Desktop/android/Opencv_Project/opencv/.cxx/RelWithDebInfo/3m5w2293/x86/metadata_generation_command.txt",
+    "file_": "/home/esra/Desktop/android/Opencv_Project/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 376809069
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "/home/esra/Desktop/android/Opencv_Project/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1011348293
+  }
+]

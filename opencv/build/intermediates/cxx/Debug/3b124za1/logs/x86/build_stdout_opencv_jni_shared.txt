@@ -1,0 +1,2 @@
+ninja: Entering directory `/home/esra/Desktop/android/Opencv_Project/opencv/.cxx/Debug/3b124za1/x86'
+ninja: no work to do.
